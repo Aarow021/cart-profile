@@ -14,9 +14,9 @@
   ---------------------------------------------------------------------- */
   :root {
       --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-light: #876418;
+      --color: #224121;
+      --color-dark: #297328;
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
@@ -33,7 +33,7 @@
 
   body {
       background: var(--color-light);
-      background: linear-gradient(to top right, var(--color-light) 0%, var(--color-dark) 100%);
+      background: linear-gradient(to top, var(--color-light) 0%, var(--color-light) 60%, var(--color-dark) 100%);
       display: flex;
       justify-content: center;
       align-items: center;
