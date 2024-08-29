@@ -13,7 +13,7 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
+      --color-lightest: #597610;
       --color-light: #876418;
       --color: #224121;
       --color-dark: #297328;
@@ -47,7 +47,7 @@
       height: 400px;
       border-radius: 2px;
       box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.3);
-      background: #fff;
+      background: #89f481;
       font-family: var(--font);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
@@ -269,7 +269,7 @@
   .stats {
       position: absolute;
       z-index: 2;
-      background: #fff;
+      background: #89f481;
       pointer-events: none;
       height: 400px;
       transition: all 1s ease-in-out;
@@ -366,7 +366,7 @@
       position: absolute;
       right: -120px;
       z-index: 2;
-      background: #fff;
+      background: #ccda2f;
       pointer-events: none;
   }
 
@@ -440,7 +440,7 @@
       height: 2px;
       top: 24px;
       left: 18px;
-      background: #fff;
+      background: #ffffff;
       transition: all 0.3s ease-in-out;
   }
 
